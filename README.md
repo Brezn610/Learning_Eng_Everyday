@@ -11,6 +11,13 @@
 | 2026-10-11 | [Day 01](lessons/2026-10-11.md) | Where You Live → Your Neighborhood |
 | 2026-10-12 | [Day 02](lessons/2026-10-12.md) | What You Study → What You're Working On |
 | 2026-10-13 | [Day 03](lessons/2026-10-13.md) | Food Shopping → Cooking Habits |
+| 2026-10-14 | [Day 04](lessons/2026-10-14.md) | Not Feeling Well → Booking a Doctor's Appointment |
+| 2026-10-15 | [Day 05](lessons/2026-10-15.md) | Weekend Plans → Inviting a Friend & Making Arrangements |
+| 2026-10-16 | [Day 06](lessons/2026-10-16.md) | Meeting a Recruiter → Understanding the Day-to-Day Role |
+| 2026-10-19 | [Day 09](lessons/2026-10-19.md) | Checking In at the Airport → Dealing with an Overweight Bag |
+| 2026-10-20 | [Day 10](lessons/2026-10-20.md) | Clothes That Don't Fit → Asking for an Exchange or Refund |
+| 2026-10-23 | [Day 13](lessons/2026-10-23.md) | Using AI to Study → Checking Whether You Can Trust the Answer |
+| 2026-10-24 | [Day 14](lessons/2026-10-24.md) | Viewing an Apartment → Clarifying Rent and Lease Terms |
 
 新课程按 `lessons/YYYY-MM-DD.md` 归档，每天一个文件，避免覆盖旧内容。
 
