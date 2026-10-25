@@ -18,6 +18,7 @@
 | 2026-10-20 | [Day 10](lessons/2026-10-20.md) | Clothes That Don't Fit → Asking for an Exchange or Refund |
 | 2026-10-23 | [Day 13](lessons/2026-10-23.md) | Using AI to Study → Checking Whether You Can Trust the Answer |
 | 2026-10-24 | [Day 14](lessons/2026-10-24.md) | Viewing an Apartment → Clarifying Rent and Lease Terms |
+| 2026-10-25 | [Day 15](lessons/2026-10-25.md) | Understanding an Official Letter → Asking for More Time and Confirming Next Steps |
 
 新课程按 `lessons/YYYY-MM-DD.md` 归档，每天一个文件，避免覆盖旧内容。
 
