@@ -20,6 +20,7 @@
 | 2026-10-24 | [Day 14](lessons/2026-10-24.md) | Viewing an Apartment → Clarifying Rent and Lease Terms |
 | 2026-10-25 | [Day 15](lessons/2026-10-25.md) | Understanding an Official Letter → Asking for More Time and Confirming Next Steps |
 | 2026-10-26 | [Day 16](lessons/2026-10-26.md) | Ordering at a Café → Handling a Declined Card |
+| 2026-10-27 | [Day 17](lessons/2026-10-27.md) | Getting Back to the Gym → Staying Consistent When You're Busy |
 
 新课程按 `lessons/YYYY-MM-DD.md` 归档，每天一个文件，避免覆盖旧内容。
 
