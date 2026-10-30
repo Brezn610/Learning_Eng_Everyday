@@ -23,6 +23,7 @@
 | 2026-10-27 | [Day 17](lessons/2026-10-27.md) | Getting Back to the Gym → Staying Consistent When You're Busy |
 | 2026-10-28 | [Day 18](lessons/2026-10-28.md) | Starting a Conversation at a Tech Event → Staying in Touch |
 | 2026-10-29 | [Day 19](lessons/2026-10-29.md) | Train Delays and Platform Changes → Adjusting Meeting Plans with a Friend |
+| 2026-10-30 | [Day 20](lessons/2026-10-30.md) | Feeling Overwhelmed → Saying No and Offering a Smaller Alternative |
 
 新课程按 `lessons/YYYY-MM-DD.md` 归档，每天一个文件，避免覆盖旧内容。
 
