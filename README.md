@@ -27,6 +27,7 @@
 | 2026-10-31 | [Day 21](lessons/2026-10-31.md) | Talking About a Movie You Watched → Choosing Something to Watch Together |
 | 2026-11-01 | [Day 22](lessons/2026-11-01.md) | Preparing a Group Presentation → Giving Feedback Without Sounding Harsh |
 | 2026-11-02 | [Day 23](lessons/2026-11-02.md) | Calling In Sick → Handing Off Urgent Work |
+| 2026-11-03 | [Day 24](lessons/2026-11-03.md) | Asking for Help in a Supermarket → Choosing an Alternative When an Item Is Sold Out |
 
 新课程按 `lessons/YYYY-MM-DD.md` 归档，每天一个文件，避免覆盖旧内容。
 
