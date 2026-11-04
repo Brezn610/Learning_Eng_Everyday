@@ -29,6 +29,8 @@
 | 2026-11-02 | [Day 23](lessons/2026-11-02.md) | Calling In Sick → Handing Off Urgent Work |
 | 2026-11-03 | [Day 24](lessons/2026-11-03.md) | Asking for Help in a Supermarket → Choosing an Alternative When an Item Is Sold Out |
 
+| 2026-11-04 | [Day 25](lessons/2026-11-04.md) | Finding a Quiet Place to Study → Planning a Study Session Together |
+
 新课程按 `lessons/YYYY-MM-DD.md` 归档，每天一个文件，避免覆盖旧内容。
 
 ## 每期有什么
