@@ -30,6 +30,7 @@
 | 2026-11-03 | [Day 24](lessons/2026-11-03.md) | Asking for Help in a Supermarket → Choosing an Alternative When an Item Is Sold Out |
 
 | 2026-11-04 | [Day 25](lessons/2026-11-04.md) | Finding a Quiet Place to Study → Planning a Study Session Together |
+| 2026-11-05 | [Day 26](lessons/2026-11-05.md) | Reporting a Heating Problem → Arranging a Repair Visit |
 
 新课程按 `lessons/YYYY-MM-DD.md` 归档，每天一个文件，避免覆盖旧内容。
 
