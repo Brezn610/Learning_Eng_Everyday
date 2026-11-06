@@ -31,6 +31,7 @@
 
 | 2026-11-04 | [Day 25](lessons/2026-11-04.md) | Finding a Quiet Place to Study → Planning a Study Session Together |
 | 2026-11-05 | [Day 26](lessons/2026-11-05.md) | Reporting a Heating Problem → Arranging a Repair Visit |
+| 2026-11-06 | [Day 27](lessons/2026-11-06.md) | Clarifying a Vague Task → Agreeing on Priorities and a Deadline |
 
 新课程按 `lessons/YYYY-MM-DD.md` 归档，每天一个文件，避免覆盖旧内容。
 
