@@ -34,6 +34,7 @@
 | 2026-11-07 | [Day 28](lessons/2026-11-07.md) | Making Weekend Plans → Adjusting Plans When the Weather Changes |
 | 2026-11-08 | [Day 29](lessons/2026-11-08.md) | Checking on a Missed Package → Asking a Neighbor to Receive a Delivery |
 | 2026-11-09 | [Day 30](lessons/2026-11-09.md) | Questioning a Higher Electricity Bill → Arranging a Payment Plan |
+| 2026-11-10 | [Day 31](lessons/2026-11-10.md) | Booking a Restaurant Table → Checking Vegetarian Options |
 
 新课程按 `lessons/YYYY-MM-DD.md` 归档，每天一个文件，避免覆盖旧内容。
 
