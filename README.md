@@ -36,6 +36,7 @@
 | 2026-11-09 | [Day 30](lessons/2026-11-09.md) | Questioning a Higher Electricity Bill → Arranging a Payment Plan |
 | 2026-11-10 | [Day 31](lessons/2026-11-10.md) | Booking a Restaurant Table → Checking Vegetarian Options |
 | 2026-11-11 | [Day 32](lessons/2026-11-11.md) | Feeling Out of Touch → Setting Up a Regular Catch-up Call |
+| 2026-11-12 | [Day 33](lessons/2026-11-12.md) | Explaining an AI Tool in Plain English → Finding a Real Use Case |
 
 新课程按 `lessons/YYYY-MM-DD.md` 归档，每天一个文件，避免覆盖旧内容。
 
