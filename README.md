@@ -39,6 +39,7 @@
 | 2026-11-12 | [Day 33](lessons/2026-11-12.md) | Explaining an AI Tool in Plain English → Finding a Real Use Case |
 | 2026-11-13 | [Day 34](lessons/2026-11-13.md) | Buying a Used Bike → Checking It Out, Taking a Test Ride, and Negotiating a Fair Price |
 | 2026-11-14 | [Day 35](lessons/2026-11-14.md) | Taking a Laptop to a Repair Shop → Discussing Data, Privacy, and the Repair Timeline |
+| 2026-11-15 | [Day 36](lessons/2026-11-15.md) | Picking Up a Rental Car → Checking Existing Damage and Confirming the Coverage |
 
 新课程按 `lessons/YYYY-MM-DD.md` 归档，每天一个文件，避免覆盖旧内容。
 
