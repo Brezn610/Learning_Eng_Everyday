@@ -41,6 +41,7 @@
 | 2026-11-14 | [Day 35](lessons/2026-11-14.md) | Taking a Laptop to a Repair Shop → Discussing Data, Privacy, and the Repair Timeline |
 | 2026-11-15 | [Day 36](lessons/2026-11-15.md) | Picking Up a Rental Car → Checking Existing Damage and Confirming the Coverage |
 | 2026-11-16 | [Day 37](lessons/2026-11-16.md) | At a Hair Salon → Explaining How to Style and Maintain Your Hair |
+| 2026-11-17 | [Day 38](lessons/2026-11-17.md) | At the Pharmacy — Asking for Over-the-Counter Allergy Relief → Checking the Label, Side Effects, and Whether It Is Safe to Drive |
 
 新课程按 `lessons/YYYY-MM-DD.md` 归档，每天一个文件，避免覆盖旧内容。
 
