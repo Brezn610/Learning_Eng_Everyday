@@ -43,6 +43,7 @@
 | 2026-11-16 | [Day 37](lessons/2026-11-16.md) | At a Hair Salon → Explaining How to Style and Maintain Your Hair |
 | 2026-11-17 | [Day 38](lessons/2026-11-17.md) | At the Pharmacy — Asking for Over-the-Counter Allergy Relief → Checking the Label, Side Effects, and Whether It Is Safe to Drive |
 | 2026-11-18 | [Day 39](lessons/2026-11-18.md) | Getting a Coworking Space Day Pass → Booking a Meeting Room for a Video Call |
+| 2026-11-19 | [Day 40](lessons/2026-11-19.md) | Sorting Household Waste → Arranging a Bulky-Waste Pickup |
 
 新课程按 `lessons/YYYY-MM-DD.md` 归档，每天一个文件，避免覆盖旧内容。
 
