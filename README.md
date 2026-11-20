@@ -44,6 +44,7 @@
 | 2026-11-17 | [Day 38](lessons/2026-11-17.md) | At the Pharmacy — Asking for Over-the-Counter Allergy Relief → Checking the Label, Side Effects, and Whether It Is Safe to Drive |
 | 2026-11-18 | [Day 39](lessons/2026-11-18.md) | Getting a Coworking Space Day Pass → Booking a Meeting Room for a Video Call |
 | 2026-11-19 | [Day 40](lessons/2026-11-19.md) | Sorting Household Waste → Arranging a Bulky-Waste Pickup |
+| 2026-11-20 | [Day 41](lessons/2026-11-20.md) | Getting a Library Card → Reserving and Renewing a Book |
 
 新课程按 `lessons/YYYY-MM-DD.md` 归档，每天一个文件，避免覆盖旧内容。
 
