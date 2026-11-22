@@ -47,6 +47,7 @@
 | 2026-11-20 | [Day 41](lessons/2026-11-20.md) | Getting a Library Card → Reserving and Renewing a Book |
 | 2026-11-21 | [Day 42](lessons/2026-11-21.md) | Checking In at a Hotel → Requesting a Quieter Room |
 
+| 2026-11-22 | [Day 43](lessons/2026-11-22.md) | Joining a Community Board-Game Night → Learning the Rules and Keeping the Conversation Going |
 新课程按 `lessons/YYYY-MM-DD.md` 归档，每天一个文件，避免覆盖旧内容。
 
 ## 每期有什么
