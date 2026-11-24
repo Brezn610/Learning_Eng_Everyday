@@ -49,6 +49,7 @@
 
 | 2026-11-22 | [Day 43](lessons/2026-11-22.md) | Joining a Community Board-Game Night → Learning the Rules and Keeping the Conversation Going |
 | 2026-11-23 | [Day 44](lessons/2026-11-23.md) | Joining a Remote Team Check-in → Catching Up After an Audio Glitch → Clarifying a Blocker and Agreeing on Next Steps |
+| 2026-11-24 | [Day 45](lessons/2026-11-24.md) | Buying a Ticket at the Station → Checking Validity, Transfers, and the Return Journey |
 新课程按 `lessons/YYYY-MM-DD.md` 归档，每天一个文件，避免覆盖旧内容。
 
 ## 每期有什么
