@@ -51,6 +51,7 @@
 | 2026-11-23 | [Day 44](lessons/2026-11-23.md) | Joining a Remote Team Check-in → Catching Up After an Audio Glitch → Clarifying a Blocker and Agreeing on Next Steps |
 | 2026-11-24 | [Day 45](lessons/2026-11-24.md) | Buying a Ticket at the Station → Checking Validity, Transfers, and the Return Journey |
 | 2026-11-25 | [Day 46](lessons/2026-11-25.md) | Registering for an Exam → Resolving a Timetable Clash |
+| 2026-11-26 | [Day 47](lessons/2026-11-26.md) | Discussing Salary Expectations in an Interview → Clarifying Working Hours and Benefits |
 新课程按 `lessons/YYYY-MM-DD.md` 归档，每天一个文件，避免覆盖旧内容。
 
 ## 每期有什么
