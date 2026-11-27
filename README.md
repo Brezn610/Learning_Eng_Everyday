@@ -52,6 +52,7 @@
 | 2026-11-24 | [Day 45](lessons/2026-11-24.md) | Buying a Ticket at the Station → Checking Validity, Transfers, and the Return Journey |
 | 2026-11-25 | [Day 46](lessons/2026-11-25.md) | Registering for an Exam → Resolving a Timetable Clash |
 | 2026-11-26 | [Day 47](lessons/2026-11-26.md) | Discussing Salary Expectations in an Interview → Clarifying Working Hours and Benefits |
+| 2026-11-27 | [Day 48](lessons/2026-11-27.md) | Bringing Up Late-Night Noise with a Flatmate → Agreeing on Quiet Hours and Guest Plans |
 新课程按 `lessons/YYYY-MM-DD.md` 归档，每天一个文件，避免覆盖旧内容。
 
 ## 每期有什么
